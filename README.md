@@ -1,4 +1,4 @@
-# 🕒 CBTL Location Opening Hours Processor
+# 🕒 CBTL Location Processor
 
 This project processes and transforms Coffee Bean & Tea Leaf (CBTL) store data, specifically focusing on store location details. It takes raw data https://www.coffeebean.com.my/amlocator, performs formatting and cleanup, and outputs a the clean version of the data in a excel file.
 
