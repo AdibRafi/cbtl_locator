@@ -27,3 +27,7 @@ This project processes and transforms Coffee Bean & Tea Leaf (CBTL) store data, 
    Open the notebook and run all cells.
 
 ---
+
+## Data Visualization
+This project use Tableau Public. Screenshot will be given inside this repository
+For full interactive: https://public.tableau.com/views/CBTLStoreLocator/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
